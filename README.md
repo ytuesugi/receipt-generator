@@ -58,8 +58,8 @@ PDF は `output/YYYYMMDDThhmmss/` に保存されます。`--dry-run` を付け�
 税区分と消費税額については [`docs/tax.md`](docs/tax.md) を参照してください。
 
 ## Output example
-
-サンプル PDF：[税表示あり](output/example/2000-01-01_テスト太郎.pdf) / [税表示なし](output/example/2000-01-01_サンプル花子.pdf)
+- [`output/example/2000-01-01_テスト太郎.pdf`](output/example/2000-01-01_テスト太郎.pdf)（税表示あり）
+- [`output/example/2000-01-01_サンプル花子.pdf`](output/example/2000-01-01_サンプル花子.pdf)（税表示なし）
 
 ## Test
 
