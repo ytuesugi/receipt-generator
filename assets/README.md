@@ -6,5 +6,3 @@
 
 - Created with: [マッハーツール 電子印鑑・署名メーカー](https://www.mach-tools.net/business/signaturestamp/)
 - Provided for this repository as a test stamp.
-
-追加した印影画像は `.gitignore` で除外されます。

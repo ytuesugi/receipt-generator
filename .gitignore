@@ -11,7 +11,11 @@ input/*
 !input/example.json
 !input/sheet-example.json
 !input/sheet-example.csv
-output/
+output/*
+!output/example/
+output/example/*
+!output/example/2000-01-01_テスト太郎.pdf
+!output/example/2000-01-01_サンプル花子.pdf
 
 # Stamp images may contain identifying information.
 assets/*
