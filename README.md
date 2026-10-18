@@ -1,4 +1,4 @@
-# receipt-gen
+# receipt-generator
 
 研究会向けの領収書 PDF を、JSON または参加者名簿から生成します。
 
