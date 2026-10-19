@@ -1,9 +1,10 @@
 # receipt-generator
 
-研究会向けの領収書 PDF を、JSON または参加者名簿から生成します。
+研究会向けの領収書 PDF を、JSON または参加者名簿から生成します。以下の 2 通りの使い方があります：
 
-- **Google Colab + Google Spreadsheet**：[手順](docs/colab.md) に進んでください（ローカルのセットアップ不要）。
-- **ローカル（JSON / CSV / XLSX）**：以下の [Setup](#setup) から進めてください。
+- ローカル（JSON / CSV / XLSX）：以下の [Setup](#setup) から進めてください。
+- Google Colab + Google Spreadsheet：[`docs/colab.md`](docs/colab.md) に進んでください。ローカルでのセットアップは不要です。
+
 
 ## Setup
 
