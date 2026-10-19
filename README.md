@@ -2,9 +2,12 @@
 
 研究会向けの領収書 PDF を、JSON または参加者名簿から生成します。
 
+- **Google Colab + Google Spreadsheet**：[手順](docs/colab.md) に進んでください（ローカルのセットアップ不要）。
+- **ローカル（JSON / CSV / XLSX）**：以下の [Setup](#setup) から進めてください。
+
 ## Setup
 
-Python 3.10 以上と WeasyPrint を使用します。
+ローカル実行には Python 3.10 以上と WeasyPrint を使用します。
 
 ### macOS
 
@@ -53,7 +56,6 @@ PDF は `output/YYYYMMDDThhmmss/` に保存されます。`--dry-run` を付け�
 
 - JSON から生成する：[`docs/json-input.md`](docs/json-input.md)
 - CSV / XLSX から生成する：[`docs/spreadsheet.md`](docs/spreadsheet.md)
-- Google Spreadsheet から生成する（Google Colab）：[`docs/colab.md`](docs/colab.md)
 
 税区分と消費税額については [`docs/tax.md`](docs/tax.md) を参照してください。
 
